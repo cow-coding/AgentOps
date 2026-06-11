@@ -46,8 +46,8 @@ Starting as a "GitHub for Prompts" — a central hub for prompt version control 
 | **Tracing** | Shipped | `aops.run()` context manager, Flow tab visualization |
 | **API Key Management** | Shipped | Per-agent keys, one-time display |
 | **Self-Hosting** | Shipped | Docker Compose, Kubernetes manifests |
-| **Monitoring** | Planned | Agent execution logs, request/response tracking |
-| **Cost Tracking** | Planned | Token usage and cost per agent/chain |
+| **Monitoring** | Shipped | Agent execution logs, request/response tracking |
+| **Cost Tracking** | Shipped | Token usage and cost per agent/chain |
 | **Evaluation** | Planned | Prompt evaluation pipelines, A/B testing |
 | **Collaboration** | Planned | Team access control, comments on versions |
 
